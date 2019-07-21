@@ -34,3 +34,15 @@ Schematics:<br/>
 ### Whole System Simulation:
 ![gp](https://user-images.githubusercontent.com/27668656/61593345-3dfc5500-ab93-11e9-95a5-59b8842a0916.png)<br/>
 ![gp](https://user-images.githubusercontent.com/27668656/61593401-e0b4d380-ab93-11e9-9f54-dcf0525a0be7.png)
+
+*****************
+### References:
+More on OpAmp Design:<br/>
+-> https://github.com/muhammadaldacher/Analog-Design-of-1.5-bit-Pipeline-ADC-And-Boosted-OpAmp/blob/master/B-%20Design%20of%20OpAmp%20for%20MDAC/Notes_OPAMP_for_ADC.pdf <br/>
+-> https://github.com/muhammadaldacher/Analog-Design-of-1.5-bit-Pipeline-ADC-And-Boosted-OpAmp/blob/master/B-%20Design%20of%20OpAmp%20for%20MDAC/Basic%20OpAmp%20Design%20and%20Compensation.pdf <br/>
+Tutorial Videos on OpAmp Design on Virtuoso Cadence:<br/>
+-> https://www.youtube.com/playlist?list=PLK2eyR1C9gjoBp61ZDvz6Zdd_6Hu7vZTz <br/>
+My project on google drive:<br/>
+https://drive.google.com/drive/folders/1W9ip4MpMZNf3IQsoFQkhgg6QaUya4Yp4 <br/>
+EE288 Lecture Notes:<br/>
+https://drive.google.com/drive/folders/12Qqfw_TX1i7dvVVYXksaSdHV4gth1OD5 <br/>
