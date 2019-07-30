@@ -7,10 +7,12 @@ Schematics:<br/>
 ![wh](https://user-images.githubusercontent.com/27668656/61588150-6fe9c900-ab4b-11e9-98ff-0a2cd4ced414.png)<br/>
 
 ## 1) Comparator:
-![1_Comp](https://user-images.githubusercontent.com/27668656/61586477-d827b300-ab29-11e9-84a9-81ca74f18817.png)
+![1_Comp](https://user-images.githubusercontent.com/27668656/61586477-d827b300-ab29-11e9-84a9-81ca74f18817.png)<br/>
+Refer to: https://github.com/muhammadaldacher/Analog-Design-of-Dynamic-Comparator <br/>
 
 ## 2) Switches:
 ![2_Switches](https://user-images.githubusercontent.com/27668656/61588164-9d367700-ab4b-11e9-8668-2014b8ef92a7.png)
+Refer to: https://github.com/muhammadaldacher/Analog-Design-of-Bootstrapped-Switch <br/>
 
 ## 3) Sub-ADC Logic:
 ![3_SubADC](https://user-images.githubusercontent.com/27668656/61588170-b5a69180-ab4b-11e9-934e-bc0490992db4.png)
