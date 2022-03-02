@@ -48,3 +48,6 @@ My project on google drive:<br/>
 https://drive.google.com/drive/folders/1W9ip4MpMZNf3IQsoFQkhgg6QaUya4Yp4 <br/>
 EE288 Lecture Notes:<br/>
 https://drive.google.com/drive/folders/12Qqfw_TX1i7dvVVYXksaSdHV4gth1OD5 <br/>
+Some papers on Gain-Boosted Opamps: <br/>
+https://ieeexplore.ieee.org/document/1635302 <br/>
+https://ieeexplore.ieee.org/document/4266730 <br/>
